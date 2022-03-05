@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: black;
+  color: yellow;
+  font-family: calibri;
+}
+
+button{
+  margin: 5px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+button:hover{
+  color: white;
+  background-color: blue;
+}
